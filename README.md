@@ -1,6 +1,6 @@
 Hi, I’m janice
 FRONT END DEVELOPER
-looking to build responsive projects, solving real-world problems and learning about the intriguing tech world
+looking to build responsive projects, solve real-world problems and learning about the intriguing tech world
 i'm currently training to be a full stack developer
 
 <!---
